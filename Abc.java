@@ -6,6 +6,8 @@ class  Abc
 		system.out.println("hii kranthi");
 
 		system.out.println("hii kranthikiran");
+
+		system.out.println("hii kranthikiran");
 	
 	}
 }
