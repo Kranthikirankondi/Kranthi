@@ -4,6 +4,8 @@ class  Abc
 	{
 		System.out.println("Hello World!");
 		system.out.println("hii kranthi");
+
+		system.out.println("hii kranthikiran");
 	
 	}
 }
